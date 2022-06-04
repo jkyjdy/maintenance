@@ -1,0 +1,2098 @@
+# Copyright (C) 2021 VamTam
+# This file is distributed under the same license as the VamTam Elementor Integration package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VamTam Elementor Integration 1.0.12\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/vamtam-elementor-integration\n"
+"POT-Creation-Date: 2021-07-18 16:52:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:402
+msgid "1"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:403
+msgid "2"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:404
+msgid "3"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:405
+msgid "4"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:406
+msgid "5"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:407
+msgid "6"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:408
+msgid "7"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:409
+msgid "8"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:31
+#: includes/dynamic-tags/vamtam-popup.php:60
+msgid "Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:46
+msgid "Action"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:50
+msgid "Open Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:51
+msgid "Close Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:52
+msgid "Toggle Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:85
+msgid "Don't Show Again"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:96
+msgid "Align With Parent"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:105
+msgid ""
+"<i style=\"font-size:11px;line-height:1.4;color:#a4afb7;\">On desktop, the "
+"popup will be positioned relative to it's parent.</i>"
+msgstr ""
+
+#: includes/kits/documents/kit.php:369
+msgid "WooCommerce Buttons"
+msgstr ""
+
+#: includes/kits/documents/kit.php:378
+msgid ""
+"These options affect buttons <strong>only</strong> at standard WooCommerce "
+"pages like:<ul style=\"padding:10px;\"><li>- The Cart page,</li><li>- The "
+"Checkout page</li><li>- The My Account Page</li></ul> e.t.c."
+msgstr ""
+
+#: includes/kits/documents/kit.php:386
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1130
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1679
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2381
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2566
+msgid "Typography"
+msgstr ""
+
+#: includes/kits/documents/kit.php:405 includes/widgets/archive-posts.php:101
+#: includes/widgets/call-to-action.php:777
+#: includes/widgets/call-to-action.php:1580 includes/widgets/form.php:443
+#: includes/widgets/icon-box.php:67 includes/widgets/icon-box.php:164
+#: includes/widgets/image-box.php:298 includes/widgets/image-box.php:395
+#: includes/widgets/nav-menu.php:113 includes/widgets/nav-menu.php:343
+#: includes/widgets/product-add-to-cart.php:81
+#: includes/widgets/products-base.php:87 includes/widgets/slides.php:78
+#: includes/widgets/testimonial-carousel.php:65
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1015
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1503
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1530
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1693
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1982
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2187
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2491
+#: includes/widgets/woocommerce-menu-cart.php:49
+#: includes/widgets/woocommerce-menu-cart.php:306
+#: includes/widgets/woocommerce-menu-cart.php:377
+#: includes/widgets/woocommerce-products.php:609
+#: includes/widgets/woocommerce-products.php:940
+msgid "Normal"
+msgstr ""
+
+#: includes/kits/documents/kit.php:412 includes/kits/documents/kit.php:478
+#: includes/widgets/call-to-action.php:1587
+#: includes/widgets/call-to-action.php:1698 includes/widgets/form.php:450
+#: includes/widgets/form.php:531 includes/widgets/form.php:627
+#: includes/widgets/nav-menu.php:139 includes/widgets/nav-menu.php:190
+#: includes/widgets/nav-menu.php:266 includes/widgets/nav-menu.php:368
+#: includes/widgets/nav-menu.php:433 includes/widgets/nav-menu.php:504
+#: includes/widgets/product-add-to-cart.php:88
+#: includes/widgets/product-add-to-cart.php:129
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1703
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1769
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2363
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2518
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2673
+#: includes/widgets/woocommerce-menu-cart.php:315
+#: includes/widgets/woocommerce-menu-cart.php:346
+#: includes/widgets/woocommerce-menu-cart.php:386
+#: includes/widgets/woocommerce-menu-cart.php:417
+#: includes/widgets/woocommerce-products.php:620
+#: includes/widgets/woocommerce-products.php:687
+msgid "Text Color"
+msgstr ""
+
+#: includes/kits/documents/kit.php:424 includes/kits/documents/kit.php:490
+#: includes/widgets/archive-posts.php:116
+#: includes/widgets/archive-posts.php:154
+#: includes/widgets/call-to-action.php:797
+#: includes/widgets/call-to-action.php:896 includes/widgets/form.php:465
+#: includes/widgets/form.php:543 includes/widgets/form.php:639
+#: includes/widgets/heading.php:168 includes/widgets/nav-menu.php:382
+#: includes/widgets/nav-menu.php:451 includes/widgets/nav-menu.php:518
+#: includes/widgets/product-add-to-cart.php:99
+#: includes/widgets/product-add-to-cart.php:140
+#: includes/widgets/products-base.php:93 includes/widgets/products-base.php:114
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1719
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1785
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1989
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2045
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2502
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2657
+#: includes/widgets/woocommerce-menu-cart.php:327
+#: includes/widgets/woocommerce-menu-cart.php:357
+#: includes/widgets/woocommerce-menu-cart.php:398
+#: includes/widgets/woocommerce-menu-cart.php:428
+#: includes/widgets/woocommerce-products.php:635
+#: includes/widgets/woocommerce-products.php:701
+msgid "Background Color"
+msgstr ""
+
+#: includes/kits/documents/kit.php:457 includes/kits/documents/kit.php:523
+#: includes/widgets/archive-posts.php:45
+#: includes/widgets/call-to-action.php:833
+#: includes/widgets/call-to-action.php:1648 includes/widgets/form.php:510
+#: includes/widgets/form.php:587 includes/widgets/form.php:683
+#: includes/widgets/product-add-to-cart.php:57
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1045
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1745
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1811
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2024
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2249
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2549
+msgid "Border Radius"
+msgstr ""
+
+#: includes/kits/documents/kit.php:471 includes/widgets/archive-posts.php:139
+#: includes/widgets/call-to-action.php:876
+#: includes/widgets/call-to-action.php:1691 includes/widgets/form.php:524
+#: includes/widgets/icon-box.php:115 includes/widgets/icon-box.php:212
+#: includes/widgets/image-box.php:346 includes/widgets/image-box.php:443
+#: includes/widgets/nav-menu.php:166 includes/widgets/nav-menu.php:409
+#: includes/widgets/product-add-to-cart.php:122
+#: includes/widgets/products-base.php:108 includes/widgets/slides.php:119
+#: includes/widgets/testimonial-carousel.php:107
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1059
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1589
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1759
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2038
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2292
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2646
+#: includes/widgets/woocommerce-menu-cart.php:71
+#: includes/widgets/woocommerce-menu-cart.php:339
+#: includes/widgets/woocommerce-menu-cart.php:410
+#: includes/widgets/woocommerce-products.php:677
+#: includes/widgets/woocommerce-products.php:1035
+msgid "Hover"
+msgstr ""
+
+#: includes/kits/documents/kit.php:539 includes/widgets/archive-posts.php:63
+#: includes/widgets/form.php:427 includes/widgets/posts.php:52
+#: includes/widgets/product-add-to-cart.php:68
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1342
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1827
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2085
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2579
+#: includes/widgets/woocommerce-menu-cart.php:280
+msgid "Padding"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:30
+msgid "Grow From Left"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:31
+msgid "Grow From Right"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:39
+msgid "Grow From Left (Scroll Based)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:40
+msgid "Grow From Right (Scroll Based)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:48
+msgid "Image - Grow With Scale (Left)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:49
+msgid "Image - Grow With Scale (Right)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:50
+msgid "Image - Grow With Scale (Top)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:51
+msgid "Image - Grow With Scale (Bottom)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:60 includes/widgets/nav-menu.php:851
+msgid "Prefix Grow"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:61
+msgid "Prefix Grow Alt"
+msgstr ""
+
+#: includes/widgets/accordion.php:14 includes/widgets/button.php:634
+#: includes/widgets/call-to-action.php:46
+#: includes/widgets/call-to-action.php:682
+#: includes/widgets/call-to-action.php:1449 includes/widgets/form.php:365
+#: includes/widgets/post-info.php:20 includes/widgets/post-navigation.php:20
+#: includes/widgets/posts-base.php:55 includes/widgets/posts.php:82
+#: includes/widgets/posts.php:117 includes/widgets/product-add-to-cart.php:204
+#: includes/widgets/product-add-to-cart.php:410
+#: includes/widgets/products-base.php:180
+#: includes/widgets/products-base.php:369 includes/widgets/search-form.php:116
+#: includes/widgets/slides.php:208 includes/widgets/tabs.php:30
+#: includes/widgets/testimonial-carousel.php:157
+#: includes/widgets/theme-post-title.php:20
+#: includes/widgets/wc-categories.php:77
+#: includes/widgets/woocommerce-menu-cart.php:591
+#: includes/widgets/woocommerce-menu-cart.php:609
+#: includes/widgets/woocommerce-product-meta.php:299
+#: includes/widgets/woocommerce-product-related.php:25
+msgid "Use Theme Style"
+msgstr ""
+
+#: includes/widgets/accordion.php:19 includes/widgets/call-to-action.php:495
+#: includes/widgets/call-to-action.php:1274
+#: includes/widgets/call-to-action.php:1299
+#: includes/widgets/call-to-action.php:1360 includes/widgets/image-box.php:132
+#: includes/widgets/image-box.php:144 includes/widgets/image-box.php:156
+#: includes/widgets/image-box.php:228
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:383
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:549
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:561
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:576
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:774
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:790
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:820
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:857
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:872
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1025
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1069
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/accordion.php:20 includes/widgets/call-to-action.php:496
+#: includes/widgets/call-to-action.php:1275
+#: includes/widgets/call-to-action.php:1300
+#: includes/widgets/call-to-action.php:1361 includes/widgets/image-box.php:133
+#: includes/widgets/image-box.php:145 includes/widgets/image-box.php:157
+#: includes/widgets/image-box.php:229
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:384
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:550
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:562
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:577
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:775
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:791
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:821
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:858
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:873
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1026
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1070
+msgid "No"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:20
+msgid "Blurred Letters"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:49
+msgid "Heading Text"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:51
+msgid "Placeholder Text"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:65
+msgid "Randomize"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:67
+msgid "<i class=\"fas fa-dice\" style=\"margin:0;\"></i>"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:78
+msgid "Blurred Text Options"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:84
+msgid "letter_index|animation_delay"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:85
+msgid ""
+"Set the numeric index and animation delay (in seconds) of each letter you "
+"want to animate. Each pair in a separate line. Separate letter index from "
+"the animation delay using %s character."
+msgstr ""
+
+#: includes/widgets/animated-headline.php:92
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:94
+msgid "Sets the duration (in seconds) of the blur animation for all letters."
+msgstr ""
+
+#: includes/widgets/animated-headline.php:133 includes/widgets/button.php:551
+#: includes/widgets/column.php:19 includes/widgets/form.php:46
+#: includes/widgets/nav-menu.php:698
+#: includes/widgets/product-add-to-cart.php:258
+#: includes/widgets/woocommerce-menu-cart.php:451
+#: includes/widgets/woocommerce-products.php:907
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:16
+msgid "Box"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:27
+msgid "Border Width"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:81
+#: includes/widgets/call-to-action.php:1663
+msgid "Content Padding"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:127
+#: includes/widgets/archive-posts.php:165
+#: includes/widgets/call-to-action.php:920
+#: includes/widgets/call-to-action.php:1747
+#: includes/widgets/product-add-to-cart.php:110
+#: includes/widgets/product-add-to-cart.php:151
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1078
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2069
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2321
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2689
+#: includes/widgets/woocommerce-products.php:649
+#: includes/widgets/woocommerce-products.php:715
+#: includes/widgets/woocommerce-products.php:1019
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:176 includes/widgets/posts.php:147
+msgid "Content Color"
+msgstr ""
+
+#: includes/widgets/button.php:33
+msgid "Force Text Wrap"
+msgstr ""
+
+#: includes/widgets/button.php:45
+msgid "Vertical Text Space"
+msgstr ""
+
+#: includes/widgets/button.php:75
+msgid "Text Position"
+msgstr ""
+
+#: includes/widgets/button.php:93
+msgid "Bijoux"
+msgstr ""
+
+#: includes/widgets/button.php:94 includes/widgets/form.php:47
+#: includes/widgets/product-add-to-cart.php:259
+#: includes/widgets/woocommerce-menu-cart.php:452
+msgid "Bijoux Alt"
+msgstr ""
+
+#: includes/widgets/button.php:120 includes/widgets/heading.php:106
+#: includes/widgets/social-icons.php:43
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2415
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/button.php:124 includes/widgets/call-to-action.php:699
+#: includes/widgets/call-to-action.php:1466 includes/widgets/heading.php:111
+#: includes/widgets/slides.php:226 includes/widgets/social-icons.php:47
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:904
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1250
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1300
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2419
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/button.php:128 includes/widgets/call-to-action.php:703
+#: includes/widgets/call-to-action.php:1470 includes/widgets/heading.php:115
+#: includes/widgets/social-icons.php:51
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1201
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1254
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1304
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2423
+#: includes/widgets/woocommerce-products.php:387
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/button.php:132 includes/widgets/call-to-action.php:707
+#: includes/widgets/call-to-action.php:1474 includes/widgets/heading.php:119
+#: includes/widgets/slides.php:230 includes/widgets/social-icons.php:55
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:905
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1258
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1308
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2427
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/button.php:136 includes/widgets/heading.php:123
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/button.php:161
+msgid "Icon Spacing"
+msgstr ""
+
+#: includes/widgets/button.php:178
+msgid "Stack Icon"
+msgstr ""
+
+#: includes/widgets/button.php:317 includes/widgets/button.php:352
+msgid "Bg Letter Color"
+msgstr ""
+
+#: includes/widgets/button.php:332 includes/widgets/button.php:366
+#: includes/widgets/form.php:70 includes/widgets/form.php:90
+#: includes/widgets/product-add-to-cart.php:293
+#: includes/widgets/product-add-to-cart.php:313
+#: includes/widgets/woocommerce-menu-cart.php:486
+#: includes/widgets/woocommerce-menu-cart.php:506
+#: includes/widgets/woocommerce-menu-cart.php:546
+#: includes/widgets/woocommerce-menu-cart.php:566
+msgid "Line Color"
+msgstr ""
+
+#: includes/widgets/button.php:385 includes/widgets/form.php:109
+#: includes/widgets/product-add-to-cart.php:273
+#: includes/widgets/woocommerce-menu-cart.php:465
+#: includes/widgets/woocommerce-menu-cart.php:525
+msgid "Line Padding"
+msgstr ""
+
+#: includes/widgets/button.php:404
+msgid "Use Underline Animation"
+msgstr ""
+
+#: includes/widgets/button.php:414 includes/widgets/nav-menu.php:631
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/button.php:436
+msgid "Underline Bg Color"
+msgstr ""
+
+#: includes/widgets/button.php:453
+msgid "Underline Bg Hover Color"
+msgstr ""
+
+#: includes/widgets/button.php:519
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1445
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2137
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2469
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/button.php:547 includes/widgets/nav-menu.php:694
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/widgets/button.php:552 includes/widgets/nav-menu.php:699
+msgid "Underline"
+msgstr ""
+
+#: includes/widgets/button.php:553 includes/widgets/nav-menu.php:700
+msgid "Overline"
+msgstr ""
+
+#: includes/widgets/button.php:554 includes/widgets/nav-menu.php:701
+#: includes/widgets/nav-menu.php:804
+msgid "Line Through"
+msgstr ""
+
+#: includes/widgets/button.php:555 includes/widgets/nav-menu.php:702
+#: includes/widgets/nav-menu.php:857 includes/widgets/nav-menu.php:878
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:274
+msgid "None"
+msgstr ""
+
+#: includes/widgets/button.php:575 includes/widgets/button.php:594
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:100
+msgid "Hover Color"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:140
+msgid "Team Member"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:462
+#: includes/widgets/call-to-action.php:1242
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1403
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:482
+#: includes/widgets/call-to-action.php:669
+msgid "Social Links"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:492
+msgid "Show Social Links"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:507
+msgid "Social Icon"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:581
+msgid "Social Link"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:587
+msgid "Enter URL"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:595
+msgid "Add Social Links"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:695
+#: includes/widgets/call-to-action.php:1462
+msgid "Icons Alignment"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:721
+#: includes/widgets/call-to-action.php:1515
+msgid "Icons Gap"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:748
+#: includes/widgets/call-to-action.php:1542
+msgid "Icon Size"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:784
+#: includes/widgets/call-to-action.php:883 includes/widgets/icon-box.php:78
+#: includes/widgets/icon-box.php:124 includes/widgets/icon-box.php:175
+#: includes/widgets/icon-box.php:221 includes/widgets/image-box.php:309
+#: includes/widgets/image-box.php:355 includes/widgets/image-box.php:406
+#: includes/widgets/image-box.php:452 includes/widgets/nav-menu.php:618
+#: includes/widgets/products-base.php:220 includes/widgets/tabs.php:367
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1158
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1510
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2001
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2057
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2199
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2304
+#: includes/widgets/woocommerce-menu-cart.php:58
+#: includes/widgets/woocommerce-menu-cart.php:78
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:809
+#: includes/widgets/call-to-action.php:908
+#: includes/widgets/call-to-action.php:1624
+#: includes/widgets/call-to-action.php:1735
+msgid "Container Background Color"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:822
+#: includes/widgets/call-to-action.php:1637
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1035
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1735
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1801
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2014
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2234
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2535
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:848
+msgid "Icon Padding"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:861
+#: includes/widgets/call-to-action.php:1676
+msgid "Container Padding"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:960
+msgid "Class"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1261
+#: includes/widgets/call-to-action.php:1436
+msgid "Class Info"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1271
+msgid "Show Class Info"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1285
+msgid "Duration"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1296
+msgid "Show Duration"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1312
+#: includes/widgets/call-to-action.php:1373
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1314
+msgid "60MIN"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1326
+#: includes/widgets/call-to-action.php:1387
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1843
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1345
+#: includes/widgets/woocommerce-products.php:479
+#: includes/woocommerce/wc-templates/cart/mini-cart.php:47
+msgid "Price"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1357
+msgid "Show Price"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1375
+msgid "20$/MO"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1488
+msgid "Content Gap"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1569
+msgid "Text Typography"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1599
+#: includes/widgets/call-to-action.php:1710
+msgid "Icons Color"
+msgstr ""
+
+#: includes/widgets/call-to-action.php:1612
+#: includes/widgets/call-to-action.php:1723
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/widgets/column.php:15
+msgid "Overflow"
+msgstr ""
+
+#: includes/widgets/column.php:20
+msgid "Hidden"
+msgstr ""
+
+#: includes/widgets/form.php:42 includes/widgets/product-add-to-cart.php:254
+#: includes/widgets/woocommerce-menu-cart.php:447
+msgid "Type"
+msgstr ""
+
+#: includes/widgets/form.php:139
+msgid "Submit"
+msgstr ""
+
+#: includes/widgets/form.php:407
+msgid "Field"
+msgstr ""
+
+#: includes/widgets/form.php:428
+msgid "Applies to fields & labels."
+msgstr ""
+
+#: includes/widgets/form.php:600 includes/widgets/product-add-to-cart.php:162
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/widgets/form.php:620
+msgid "Focus"
+msgstr ""
+
+#: includes/widgets/heading.php:20
+msgid "Caridad"
+msgstr ""
+
+#: includes/widgets/heading.php:90
+msgid "Use new lines to indicate a new sentence block."
+msgstr ""
+
+#: includes/widgets/heading.php:182 includes/widgets/products-base.php:246
+#: includes/widgets/social-icons.php:96
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1855
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2161
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/icon-box.php:30
+msgid "Vamtam Amorph"
+msgstr ""
+
+#: includes/widgets/icon-box.php:46 includes/widgets/image-box.php:277
+msgid "Whole Box is Link"
+msgstr ""
+
+#: includes/widgets/image-box.php:33
+msgid "Subtitle"
+msgstr ""
+
+#: includes/widgets/image-box.php:38
+msgid "This is the subtitle"
+msgstr ""
+
+#: includes/widgets/image-box.php:39
+msgid "Enter your subtitle"
+msgstr ""
+
+#: includes/widgets/image-box.php:55
+msgid "Subtitle HTML Tag"
+msgstr ""
+
+#: includes/widgets/image-box.php:77
+#: includes/widgets/woocommerce-products.php:416
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/image-box.php:78
+msgid "This is the title"
+msgstr ""
+
+#: includes/widgets/image-box.php:87
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/image-box.php:120
+msgid "Vamtam"
+msgstr ""
+
+#: includes/widgets/image-box.php:128
+msgid "Use Theme's Background Mask"
+msgstr ""
+
+#: includes/widgets/image-box.php:140
+msgid "Use Theme's Image Mask"
+msgstr ""
+
+#: includes/widgets/image-box.php:152
+msgid "Show eye"
+msgstr ""
+
+#: includes/widgets/image-box.php:165
+msgid "Eye Outer Circle Color"
+msgstr ""
+
+#: includes/widgets/image-box.php:179
+msgid "Eye Inner Circle Color"
+msgstr ""
+
+#: includes/widgets/image-box.php:193
+msgid "Eye Color"
+msgstr ""
+
+#: includes/widgets/image-box.php:207
+msgid "Eye Initial Position"
+msgstr ""
+
+#: includes/widgets/image-box.php:224
+msgid "Eye Random Movement"
+msgstr ""
+
+#: includes/widgets/image-box.php:227
+msgid ""
+"The eye will move randomly when the cursor is not inside the area of the "
+"element."
+msgstr ""
+
+#: includes/widgets/image-box.php:241
+msgid "Random Movement Interval"
+msgstr ""
+
+#: includes/widgets/image-box.php:242
+msgid "The interval (in seconds) at which random movement will occur."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:101
+msgid "Individual Nav Items Colors"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:103
+msgid ""
+"Use different colors for each of the menu items. These colors have priority "
+"over the general ones."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:129 includes/widgets/nav-menu.php:180
+#: includes/widgets/nav-menu.php:256 includes/widgets/nav-menu.php:358
+#: includes/widgets/nav-menu.php:423 includes/widgets/nav-menu.php:494
+msgid "Item %d"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:170 includes/widgets/nav-menu.php:413
+msgid "Use different colors for each of the menu items."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:209 includes/widgets/nav-menu.php:283
+msgid "Pointer Color"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:244 includes/widgets/nav-menu.php:482
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:331
+msgid "Individual Dropdown Colors"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:333
+msgid ""
+"Use different colors for each of the dropdowns. These colors have priority "
+"over the general ones."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:551
+msgid "Min Width"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:579
+msgid "Horizontal Position"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:608
+msgid "Use Theme's Divider"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:649
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:813
+msgid "Prefix"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:822
+msgid "Underline (Theme)"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:847 includes/widgets/nav-menu.php:871
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2705
+msgid "Animation"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:852 includes/widgets/nav-menu.php:876
+msgid "Fade"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:853
+msgid "Slide"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:854 includes/widgets/nav-menu.php:877
+msgid "Grow"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:855
+msgid "Drop In"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:856
+msgid "Drop Out"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:875
+msgid "Horizontal Grow"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:907
+msgid "Bounce"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:929
+msgid "Disable Page Scroll"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:930
+msgid "Disables the page scroll when the mobile dropdown menu is toggled."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:940
+msgid "Use Overlay"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:941
+msgid "Applies an overlay that covers the area beneath the toggled dropdown menu."
+msgstr ""
+
+#: includes/widgets/posts-base.php:20 includes/widgets/products-base.php:349
+#: includes/widgets/tabs.php:92
+msgid "Use Theme Animation"
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:23
+msgid "View Cart"
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:32
+msgid ""
+"The style of this widget is often affected by your theme and plugins. If "
+"you experience any such issue, try to switch to a basic theme and "
+"deactivate related plugins."
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:466
+msgid "Disable Theme's Ajax Handler"
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:467
+msgid ""
+"Due to the vast amount of Variable Product implementations provided by 3rd "
+"party plugins, you can disable the theme's Ajax add-to-cart handler for "
+"variables, if you experience any problems/collisions (reverts to default WC "
+"behavior)."
+msgstr ""
+
+#: includes/widgets/products-base.php:79
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1101
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/products-base.php:138
+msgid "Use Title Min Height"
+msgstr ""
+
+#: includes/widgets/products-base.php:139
+msgid ""
+"Use this option to equalize any differences caused by inconsistent title "
+"names."
+msgstr ""
+
+#: includes/widgets/products-base.php:149
+msgid "Min Height"
+msgstr ""
+
+#: includes/widgets/products-base.php:211
+msgid "Meta"
+msgstr ""
+
+#: includes/widgets/products-base.php:304
+msgid "Animate Product Image"
+msgstr ""
+
+#: includes/widgets/products-base.php:315
+msgid "Entrance Animation"
+msgstr ""
+
+#: includes/widgets/products-base.php:327
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/widgets/products-base.php:470
+msgid "Hide Product Categories"
+msgstr ""
+
+#: includes/widgets/search-form.php:20
+msgid "Disable page scroll"
+msgstr ""
+
+#: includes/widgets/section.php:42
+msgid "Use Theme Sticky Header (Desktop)"
+msgstr ""
+
+#: includes/widgets/section.php:54
+msgid "Header Is Transparent"
+msgstr ""
+
+#: includes/widgets/slides.php:18
+msgid "Overlap"
+msgstr ""
+
+#: includes/widgets/slides.php:37
+msgid "Arrows Horizontal Offset"
+msgstr ""
+
+#: includes/widgets/slides.php:88 includes/widgets/slides.php:129
+#: includes/widgets/testimonial-carousel.php:75
+#: includes/widgets/testimonial-carousel.php:117
+msgid "Arrows Color"
+msgstr ""
+
+#: includes/widgets/slides.php:103 includes/widgets/slides.php:144
+#: includes/widgets/testimonial-carousel.php:90
+#: includes/widgets/testimonial-carousel.php:132
+msgid "Circle Color"
+msgstr ""
+
+#: includes/widgets/slides.php:159
+msgid "Arrows Hover Animation"
+msgstr ""
+
+#: includes/widgets/slides.php:180
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1922
+msgid "Arrows Size"
+msgstr ""
+
+#: includes/widgets/slides.php:222
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/widgets/slides.php:290
+msgid "Force Slide Stretch"
+msgstr ""
+
+#: includes/widgets/slides.php:295
+msgid ""
+"The heigth setting might need to be re-adjusted for the slide to show "
+"properly."
+msgstr ""
+
+#: includes/widgets/slides.php:306
+msgid "Force Contain Slide"
+msgstr ""
+
+#: includes/widgets/slides.php:311
+msgid "Forces slides widget never to exceed container's width."
+msgstr ""
+
+#: includes/widgets/slides.php:554 includes/widgets/slides.php:679
+msgid "Previous"
+msgstr ""
+
+#: includes/widgets/slides.php:562 includes/widgets/slides.php:687
+msgid "Next"
+msgstr ""
+
+#: includes/widgets/social-icons.php:14
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:365
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:926
+#: includes/widgets/woocommerce-menu-cart.php:227
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/social-icons.php:18
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/social-icons.php:19
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets/tabs.php:15
+msgid "Disable Default Tab Animation"
+msgstr ""
+
+#: includes/widgets/tabs.php:16
+msgid "Disables the default tab switching animation."
+msgstr ""
+
+#: includes/widgets/tabs.php:44
+msgid "Overline Bg Color"
+msgstr ""
+
+#: includes/widgets/tabs.php:60
+msgid "Overline Bg Hover Color"
+msgstr ""
+
+#: includes/widgets/tabs.php:76
+msgid "Tabs Box Max Width"
+msgstr ""
+
+#: includes/widgets/tabs.php:108
+msgid "Transition Time (s)"
+msgstr ""
+
+#: includes/widgets/tabs.php:147
+msgid "Empty Title As Button"
+msgstr ""
+
+#: includes/widgets/tabs.php:148
+msgid "In absence of a tab title a button will be shown instead."
+msgstr ""
+
+#: includes/widgets/tabs.php:161
+msgid "Navigation Over Content"
+msgstr ""
+
+#: includes/widgets/tabs.php:162
+msgid ""
+"Draw navigation on top of the tab content. Use \"Navigation Width\" to "
+"position the navigation container."
+msgstr ""
+
+#: includes/widgets/tabs.php:175
+msgid "Button Width"
+msgstr ""
+
+#: includes/widgets/tabs.php:199
+msgid "Button Height"
+msgstr ""
+
+#: includes/widgets/tabs.php:223
+msgid "Button Padding"
+msgstr ""
+
+#: includes/widgets/tabs.php:271
+msgid "Navigation Width"
+msgstr ""
+
+#: includes/widgets/tabs.php:322 includes/widgets/tabs.php:355
+msgid "Title Numbering"
+msgstr ""
+
+#: includes/widgets/tabs.php:323
+msgid ""
+"When using title numbering, the tab's title up to the first space will be "
+"used as the numbering."
+msgstr ""
+
+#: includes/widgets/tabs.php:333
+msgid "Use Numbering shape"
+msgstr ""
+
+#: includes/widgets/tabs.php:334
+msgid "Applied on active tab."
+msgstr ""
+
+#: includes/widgets/tabs.php:385
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2216
+msgid "Active Color"
+msgstr ""
+
+#: includes/widgets/testimonial-carousel.php:191
+msgid "Disable Slide To Click"
+msgstr ""
+
+#: includes/widgets/testimonial-carousel.php:192
+msgid ""
+"If disabled, click on a slide will <strong>not</strong> produce transition "
+"to this slide"
+msgstr ""
+
+#: includes/widgets/vamtam/base/vamtam-widget.php:44
+msgid "This is a placeholder for this widget and is visible only in the editor."
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:75
+msgid ""
+"The <b>username</b> added is not a valid Instagram Username. Check browser "
+"console for more details."
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:76
+msgid "This account is private."
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:77
+msgid "No <i>images</i> were found in the Instagram profile for <b>"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:111
+msgid "VamTam Instagram Feed"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:213
+msgid "Instagram Account"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:220
+msgid "Display"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:224
+msgid "My Feed"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:225
+msgid "Hashtag Search"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:234
+msgid ""
+"Hashtag search requires you to be logged in your Instagram account on the "
+"current browser. This is only needed when setting up the widget in the "
+"editor, and does <strong>not</strong> affect page visitors."
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:245
+msgid "Custom Access Token"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:257
+msgid "Hashtag"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:258
+msgid "Enter without the # symbol"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:270
+msgid "Cache Timeout"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:275
+msgid "Minute"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:276
+msgid "Hour"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:277
+msgid "Day"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:278
+msgid "Week"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:286
+msgid "Images Count"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:303
+msgid "Image Resolution"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:306
+msgid "Thumbnail (150x150)"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:307
+msgid "Low Resolution (320x320)"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:308
+msgid "Standard Resolution (640x640)"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:309
+msgid "High Resolution (original)"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:325
+msgid "Feed Settings"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:358
+msgid "General Settings"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:369
+msgid "Grid"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:370
+msgid "Masonry"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:371
+msgid "Carousel"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:380
+msgid "Square Images"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:395
+msgid "Grid Columns"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:424
+msgid "Likes"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:427
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:441
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:454
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:836
+#: includes/widgets/wc-categories.php:23
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:428
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:442
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:455
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:837
+#: includes/widgets/wc-categories.php:24
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:438
+msgid "Comments"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:451
+msgid "Caption"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:463
+msgid "Caption Length"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:478
+msgid "Content Position"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:482
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1491
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1506
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1538
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1597
+msgid "Overlay"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:483
+msgid "Above Image"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:484
+msgid "Below Image"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:513
+msgid "Content Visibility"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:517
+msgid "Always"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:518
+msgid "On Hover"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:546
+msgid "Lightbox"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:558
+msgid "Image Link"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:573
+msgid "Show Link to Instagram Profile?"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:586
+msgid "Link Title"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:588
+msgid "Follow Us @ Instagram"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:598
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:613
+msgid "Title Icon"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:647
+msgid "Icon Position"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:650
+msgid "Before Title"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:651
+msgid "After Title"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:699
+msgid "Carousel Settings"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:709
+msgid "Visible Items"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:729
+msgid "Items Gap"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:749
+msgid "Slider Speed"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:750
+msgid "Duration of transition between slides (in ms)"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:771
+msgid "Autoplay"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:786
+msgid "Pause on Interaction"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:787
+msgid "Disables autoplay completely on first interaction with the carousel."
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:803
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:806
+msgid "Enter carousel speed"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:817
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:832
+msgid "Grab Cursor"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:833
+msgid "Shows grab cursor when you hover over the slider"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:845
+msgid "Navigation"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:854
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1886
+msgid "Arrows"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:869
+msgid "Pagination"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:884
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:888
+msgid "Dots"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:889
+msgid "Fraction"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:900
+msgid "Direction"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:935
+msgid "Columns Gap"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:967
+msgid "Rows Gap"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1005
+msgid "Images"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1022
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1066
+msgid "Grayscale Image"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1190
+msgid "Vertical Align"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1197
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1656
+#: includes/widgets/woocommerce-products.php:383
+msgid "Top"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1205
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1664
+#: includes/widgets/woocommerce-products.php:391
+msgid "Bottom"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1243
+msgid "Horizontal Align"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1296
+msgid "Text Align"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1374
+msgid "Icons"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1410
+msgid "Solid"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1414
+msgid "Outline"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1499
+msgid "Blend Mode"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1504
+msgid "Multiply"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1505
+msgid "Screen"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1507
+msgid "Darken"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1508
+msgid "Lighten"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1509
+msgid "Color Dodge"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1511
+msgid "Hue"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1512
+msgid "Hard Light"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1513
+msgid "Soft Light"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1514
+msgid "Difference"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1515
+msgid "Exclusion"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1516
+msgid "Saturation"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1517
+msgid "Luminosity"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1550
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2266
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2621
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1568
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1609
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1639
+msgid "Feed Title"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1650
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2118
+msgid "Position"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1660
+msgid "Middle"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1898
+msgid "Choose Arrow"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1903
+msgid "Angle"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1904
+msgid "Double Angle"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1905
+msgid "Chevron"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1906
+msgid "Chevron Circle"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1907
+msgid "Arrow"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1908
+msgid "Long Arrow"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1909
+msgid "Caret"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1910
+msgid "Caret Square"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1911
+msgid "Arrow Circle"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1912
+msgid "Arrow Circle O"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1913
+msgid "Toggle"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1914
+msgid "Hand"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1942
+msgid "Align Left Arrow"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:1961
+msgid "Align Right Arrow"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2105
+msgid "Pagination: Dots"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2121
+msgid "Inside"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2122
+msgid "Outside"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2350
+msgid "Pagination: Fraction"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2403
+msgid "Load More Button"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2445
+msgid "Top Spacing"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2473
+msgid "Extra Small"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2474
+msgid "Small"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2475
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2476
+msgid "Large"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2477
+msgid "Extra Large"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:2607
+msgid "Button Icon"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:3138
+msgid "No posts found"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:3144
+msgid "Data Error"
+msgstr ""
+
+#: includes/widgets/vamtam/vamtam-instagram-feed.php:3408
+msgid "No Posts Found"
+msgstr ""
+
+#: includes/widgets/wc-categories.php:21
+msgid "Show Count"
+msgstr ""
+
+#: includes/widgets/wc-categories.php:106
+msgid "Hide Category Title"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:26
+msgid "Cart"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:191
+msgid "Hide on Cart/Checkout"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:192
+msgid "Hides the menu-card widget on WC's Cart & Checkout pages."
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:230
+msgid "Inline"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:231
+msgid "Stacked"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:26
+msgid "Disable Image Link"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:30
+msgid ""
+"Disables opening the image on a new tab or Elementor lightbox. Doesn't "
+"disable WC's lightbox (if enabled)."
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:47
+msgid "Display as Full Size Gallery"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:58
+msgid "Disable On Mobile Browsers"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:72
+msgid "Image Spacing"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:26
+msgid "Show SKU"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:35
+msgid "Show Category"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:44
+msgid "Show Tags"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:82
+#: includes/widgets/woocommerce-product-meta.php:98
+#: includes/widgets/woocommerce-product-meta.php:114
+msgid "Show Label"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:219
+msgid "SKU"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:220
+msgid "N/A"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:221
+msgid "Category"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:222
+msgid "Categories"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:223
+msgid "Tag"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-meta.php:224
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:45
+msgid "Hide Product Price"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:98
+msgid "Table Layout"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:180
+msgid "Columns are not taken into account for Table layout."
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:378
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:414
+#: includes/widgets/woocommerce-products.php:477
+#: includes/widgets/woocommerce-products.php:540
+#: includes/widgets/woocommerce-products.php:740
+msgid "Header Text"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:426
+#: includes/widgets/woocommerce-products.php:490
+#: includes/widgets/woocommerce-products.php:552
+#: includes/widgets/woocommerce-products.php:752
+msgid "Column Width"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:455
+msgid "Title Links To Product"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:528
+#: includes/widgets/woocommerce-products.php:542
+msgid "Quantity"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:592
+msgid "Text Padding"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:781
+msgid "Button Opens Menu Cart"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:782
+msgid "If exists, menu cart opens after \"Add To Cart\" button is clicked."
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:804
+msgid "Table"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:815
+msgid "Headers"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:823
+msgid "Hide Headers"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:843
+msgid "Borders"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:851
+msgid "Header Border Width"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:868
+msgid "Row Border Width"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:885
+msgid "Cell Border Width"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:902
+msgid "Border Collapse"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:903
+msgid "Whether table borders should collapse into a single border or be separated."
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:908
+msgid "Separate"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:909
+msgid "Collapse"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:920
+msgid "Colors"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:929
+msgid "Zebra Striped"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:955
+#: includes/widgets/woocommerce-products.php:1050
+msgid "Row Background Color"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:969
+#: includes/widgets/woocommerce-products.php:1064
+msgid "Row Background Color (Even)"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:983
+#: includes/widgets/woocommerce-products.php:1078
+msgid "Row Background Color (Odd)"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:997
+#: includes/widgets/woocommerce-products.php:1092
+msgid "Header Color"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:1008
+#: includes/widgets/woocommerce-products.php:1103
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/widgets/woocommerce-products.php:1257
+msgid "No products found"
+msgstr ""
+
+#: includes/woocommerce/wc-templates/cart/mini-cart.php:32
+msgid "Product"
+msgstr ""
+
+#: includes/woocommerce/wc-templates/cart/mini-cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: includes/woocommerce/wc-templates/cart/mini-cart.php:71
+msgid "No products in the cart."
+msgstr ""
+
+#: includes/woocommerce/wc-templates/cart/mini-cart.php:86
+msgid "Subtotal"
+msgstr ""
+
+#: includes/woocommerce/wc-templates/cart/mini-cart.php:91
+msgid "View cart"
+msgstr ""
+
+#: includes/woocommerce/wc-templates/cart/mini-cart.php:95
+msgid "Checkout"
+msgstr ""
+
+#: vamtam-elementor-integration.php:72
+#. translators: 1: Plugin name 2: Elementor
+msgid ""
+"\"%1$s\" requires an Elementor-based VamTam theme to be activated in order "
+"to work."
+msgstr ""
+
+#: vamtam-elementor-integration.php:73 vamtam-elementor-integration.php:85
+#: vamtam-elementor-integration.php:98
+msgid "Vamtam Elementor Integration"
+msgstr ""
+
+#: vamtam-elementor-integration.php:84
+#. translators: 1: Plugin name 2: Elementor
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: vamtam-elementor-integration.php:86 vamtam-elementor-integration.php:99
+msgid "Elementor"
+msgstr ""
+
+#: vamtam-elementor-integration.php:97
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: vamtam-elementor-integration.php:244
+msgid "Additional JS"
+msgstr ""
+
+#: vamtam-elementor-integration.php:277
+msgid "Before </head>"
+msgstr ""
+
+#: vamtam-elementor-integration.php:290
+msgid "After <body>"
+msgstr ""
+
+#: vamtam-elementor-integration.php:303
+msgid "Before </body>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "VamTam Elementor Integration"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://vamtam.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Extend the Elementor plugin with widgets and template builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VamTam"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:134
+msgctxt "Typography Control"
+msgid "Uppercase"
+msgstr ""
+
+#: includes/widgets/animated-headline.php:135
+msgctxt "Typography Control"
+msgid "Lowercase"
+msgstr ""
+
+#: includes/widgets/button.php:480
+msgctxt "Typography Control"
+msgid "Line-Height"
+msgstr ""
+
+#: includes/widgets/section.php:24
+msgctxt "Shapes"
+msgid "Vamtam Waves"
+msgstr ""

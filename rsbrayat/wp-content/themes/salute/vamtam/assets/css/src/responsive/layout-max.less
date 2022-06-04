@@ -1,0 +1,158 @@
+.page-wrapper {
+	> .left-right {
+		max-width: calc( 100% - var( --vamtam-left-sidebar-width, 30% ) - var( --vamtam-right-sidebar-width, 30% ) );
+	}
+
+	> .left-only {
+		max-width: calc( 100% - var( --vamtam-left-sidebar-width, 30% ) );
+	}
+
+	> .right-only {
+		max-width: calc( 100% - var( --vamtam-right-sidebar-width, 30% ) );
+	}
+}
+
+header.main-header {
+	.header-contents,
+	.header-content-wrapper {
+		box-sizing: border-box;
+	}
+}
+
+#sub-header {
+	position: relative;
+}
+
+body.layout-full .alignwide {
+	max-width: 90% !important;
+}
+
+.loop-wrapper {
+	&.regular {
+		.home.blog.layout-full .page-content > &,
+		.archive.layout-full .page-content > &,
+		.search-results.layout-full .page-content > & {
+			:not(.vamtam-limited-layout)& {
+				max-width: 70%;
+			}
+		}
+	}
+}
+
+body:not(.fl-builder-active) [data-progressive-animation="expand-scroll"] {
+	overflow: hidden;
+
+	.fl-col-group {
+		display: flex;
+	}
+
+	.fl-row-content {
+		max-width: none;
+	}
+}
+
+// Standard cart
+.woocommerce .vamtam-cart-main {
+	background-color: var(--vamtam-accent-color-5);
+
+	.product-thumbnail {
+		> a, > a > img {
+			display: block;
+		}
+	}
+
+	.woocommerce-cart-form__contents {
+		overflow-x: visible;
+	}
+
+	.cart_item {
+		grid-template-rows: auto;
+
+		&:not(:last-of-type) {
+			border-bottom: 1px solid var(--vamtam-accent-color-7);
+		}
+	}
+
+	.product-remove {
+		align-self: flex-end;
+	}
+
+	.product-remove,
+	.product-price {
+		grid-row: 1/2;
+	}
+
+	.product-price {
+		&:before {
+			display: none;
+		}
+		.quantity .vamtam-quantity {
+			select {
+				border: 1px solid var( --vamtam-default-line-color );
+			}
+		}
+	}
+}
+
+.vamtam-sticky-header {
+	z-index: 100;
+	transition: transform .2s ease !important;
+	will-change: transform;
+	left: 0;
+	right: 0;
+
+	&.vamtam-sticky-header--transparent-header {
+		transition: transform        .15s linear,
+					background-color .35s ease !important;
+		will-change: transform, background-color;
+	}
+
+	&[class*="vamtam-sticky-header--fixed"] {
+		position: fixed !important;
+	}
+
+	&.vamtam-sticky-header--fixed-shown {
+
+		&.vamtam-sticky-header--transparent-header {
+			background-color: var(--vamtam-sticky-header-bg-color) !important;
+			transition: transform .15s linear !important;
+		}
+
+		transform: translateY(0);
+	}
+
+	&.vamtam-sticky-header--fixed-hidden {
+		transform: translateY(-100%);
+	}
+}
+
+// Fix for fixed bg-attachment on sections (desktop).
+.vamtam-section-bg-fixed {
+	will-change: transform;
+}
+
+body.admin-bar.dialog-prevent-scroll {
+	max-height: calc( 100vh - 32px );
+}
+
+// ---------------- Custom Widget Styles -------------- //
+
+// Added here so when moved to individual widget styles there won't be any specificity alteration to be made.
+
+// Tabs widget desktop.
+.elementor-widget-tabs {
+	// Title numbering mask.
+	&.vamtam-has-numbering-bg {
+		.elementor-tabs .elementor-tab-mobile-title {
+			display: none;
+		}
+	}
+}
+
+// Menu cart.
+// WP Admin Bar - Menu Cart fix.
+body.admin-bar .elementor-widget-woocommerce-menu-cart {
+	.elementor-menu-cart__container {
+		height: calc(100vh - 32px);
+	}
+}

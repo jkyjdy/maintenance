@@ -1,0 +1,34 @@
+.wp-picker-holder.vamtam-accents .iris-palette-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: -20px;
+	margin-left: 0%;
+	margin-right: 25%;
+	right: -5px;
+}
+
+/* Override */
+.wp-picker-container input[type=text].wp-color-picker {
+	min-height: auto;
+}
+
+.wp-picker-holder.vamtam-accents .iris-palette-container a.iris-palette {
+	flex-basis: 10%;
+	margin: 2px 2px !important;
+	width: 19.2452px !important;
+	height: 19.2452px !important;
+}
+
+.wp-picker-holder.vamtam-accents .iris-slider.iris-strip {
+	width: 17.325px !important;
+	height: 230px !important;
+}
+
+.wp-picker-holder.vamtam-accents > .iris-picker {
+	height: 220px !important;
+}
+
+/* Fix for picker square overlapping the palettes in some resolutions */
+.wp-picker-holder.vamtam-accents > .iris-picker .iris-square {
+	max-height: 85%;
+}

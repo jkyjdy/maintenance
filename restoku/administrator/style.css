@@ -1,0 +1,47 @@
+header{
+    width:99%;
+    background-color:thistle;
+    padding: 5px;
+    color:white;
+}
+.menu{
+    width:100%;
+    text-align:right;
+    text-align: center;
+    background-color: thistle;
+    padding: 5px 0px;
+    margin-top: 5px;
+}
+.menu a:hover{
+    background-color: blue;
+} 
+.sidebar{
+    width: 20%;
+    height: 600px;
+    float:left;
+    background-color: whitesmoke;
+}
+.sidebar a{
+    text-decoration: none;
+    margin-top: 2px;
+    color: blue;
+    font-weight: bold;
+}
+.sidebar a:hover{
+    background-color: blue;
+    color:white;
+    font-size: x-large;
+}
+.content{
+    width: 76%;
+    float:left;
+    padding: 10px 2%;
+}
+.tabel{
+    width:80%;
+    float: left;
+}
+.form{
+    width: 20%;
+    float:left;
+}
